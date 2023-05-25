@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	646f0a63-caed4-8454e-c5f07
+.sextgem.com	TRUE	/	FALSE	1999999999	_xta_uid	136e291e12413581179e0f6f14f4a229
+inpays.mobie.in	TRUE	/	FALSE	1999999999	session	w5~0
+.xtgem.com	TRUE	/	FALSE	1999999999	_xta_uid	84bdffc89c211e21d07cbbd9a78977ae
+payloan.mobie.in	TRUE	/	FALSE	1999999999	session	w5~0
+payloan.mobie.in	TRUE	/	FALSE	1999999999	session	w5~0
+.mobie.in	TRUE	/	FALSE	1999999999	_xta_uid	a532fb181a8ba39afa6e129541ff3704
+.mobie.in	TRUE	/	FALSE	1999999999	_xta_vid	e261dbd6d7475643abaf1e57f74b6553-1684998876
+
